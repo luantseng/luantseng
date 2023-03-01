@@ -1,9 +1,9 @@
 ## Olá. Meu nome é Luan Tseng!
 
 Atualmente:
-- 👨‍💻 Cursando: Análise e Desenvolvimento de Sistemas (3o Trimestre)
-- 🌱 Estudando: HTML; CSS
-- 🤔 Interessado em: JavaScript
+- 🌱 Estudando: (FMU | FIAM-FAAM) Bacharelado em Análise de Desenvolvimento de
+Sistemas, agosto 2022 - junho 2024)
+- 🤔 Interessado em: Front-end
 
 <div style="display: inline_block"><br>      
  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
