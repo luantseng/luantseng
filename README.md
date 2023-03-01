@@ -1,9 +1,9 @@
 ## Olá. Meu nome é Luan Tseng!
 
-Atualmente:
-- 🌱 Estudando: (FMU | FIAM-FAAM) Bacharelado em Análise de Desenvolvimento de
-Sistemas, agosto 2022 - junho 2024)
-- 🤔 Interessado em: Front-end
+- 🌱 Formação: (CELLEP) Curso de Inglês, Básico a Avançado (2008-2013); (FMU | FIAM-FAAM) Bacharelado em Análise de Desenvolvimento de
+Sistemas (agosto 2022 - junho 2024).
+- 👨‍💻 Interesses: Front-end.
+- 🧒 Habilidades: Flexível na funcionalidade de qualquer computador; Músico, criativo; Escritor, boa escrita.
 
 <div style="display: inline_block"><br>      
  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
