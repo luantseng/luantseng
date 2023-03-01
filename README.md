@@ -6,7 +6,7 @@
 - <h2>👨‍💻 Interesses:</h2>
 -     Front-end.
 - <h2>🧒 Habilidades:</h2> 
--     Flexível na funcionalidade de qualquer computador; Músico, criativo; Escritor, boa escrita.
+-     Flexível na funcionalidade de qualquer computador; Músico (criativo); Escritor (boa escrita).
 
 <div style="display: inline_block"><br>      
  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
