@@ -3,9 +3,9 @@
 - <h2>🌱 Formação:</h2> 
 -     (CELLEP) Curso de Inglês, Básico a Avançado (2008-2013); 
 -     (FMU | FIAM-FAAM) Bacharelado em Análise de Desenvolvimento de Sistemas (agosto 2022 - junho 2024).
-- <h1>👨‍💻 Interesses:</h1>
+- <h2>👨‍💻 Interesses:</h2>
 -     Front-end.
-- <h1>🧒 Habilidades:</h1> 
+- <h2>🧒 Habilidades:</h2> 
 -     Flexível na funcionalidade de qualquer computador; Músico, criativo; Escritor, boa escrita.
 
 <div style="display: inline_block"><br>      
