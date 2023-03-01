@@ -1,6 +1,6 @@
 ## Olá. Meu nome é Luan Tseng!
 
-- <h1>🌱 Formação:</h1> 
+- <h2>🌱 Formação:</h2> 
 -     (CELLEP) Curso de Inglês, Básico a Avançado (2008-2013); 
 -     (FMU | FIAM-FAAM) Bacharelado em Análise de Desenvolvimento de Sistemas (agosto 2022 - junho 2024).
 - <h1>👨‍💻 Interesses:</h1>
